@@ -5,3 +5,4 @@ This is the repo for beginner python projects found on the freecodecamp blog sit
 2. Guess the Number
    1. Computer (User Guess)
    2. User (Computer Guess)
+3. Rock Paper Scissors
