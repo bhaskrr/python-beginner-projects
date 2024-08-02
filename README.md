@@ -1,4 +1,4 @@
 # python-beginner-projects
 This is the repo for beginner python projects found on the freecodecamp blog site: [25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python](https://www.freecodecamp.org/news/python-projects-for-beginners/)
 
-    1. Mad Libs
+1. Mad Libs
