@@ -9,3 +9,4 @@ This is the repo for beginner python projects found on the freecodecamp blog sit
 4. Hangman
 5. Countdown Timer
 6. Password Generator
+7. QR code encoder / decoder
