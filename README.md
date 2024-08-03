@@ -8,3 +8,4 @@ This is the repo for beginner python projects found on the freecodecamp blog sit
 3. Rock Paper Scissors
 4. Hangman
 5. Countdown Timer
+6. Password Generator
